@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<data>
+<user id="1"
+   xmlns:manahiltwo="https://manahiltwo.com/mynamespace">
+    <manahiltwo:fname>Manahil</manahiltwo:fname>
+    <manahiltwo:lname>Waris</manahiltwo:lname>
+    <manahiltwo:email>manahilwaris124@gmail.com</manahiltwo:email>
+</user>
+<user id="2"
+    xmlns:manahilone="https://manahilone.com/mynamespace">
+    <manahilone:fname>Manahil</manahilone:fname>
+    <manahilone:lname>Humdah</manahilone:lname>
+    <manahilone:email>manahil5@gmail.com</manahilone:email>
+</user>
+</data>
